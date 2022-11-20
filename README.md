@@ -57,7 +57,7 @@ To assess film popularity and film profitability we will examine five seperate d
             margin-left: auto;
             margin-right: auto;
             width: 50%;"
-     src="images/tmdb_img.jpg" />
+     src="images/tmdb_img.png" />
 
 #### Popularity: IMDB Insights
 
@@ -65,7 +65,7 @@ To assess film popularity and film profitability we will examine five seperate d
             margin-left: auto;
             margin-right: auto;
             width: 50%;"
-     src="images/imdb_img.jpg" />
+     src="images/imdb_img.png" />
 
 #### Popularity: Rotten Tomatoes Insights
 
@@ -73,7 +73,7 @@ To assess film popularity and film profitability we will examine five seperate d
             margin-left: auto;
             margin-right: auto;
             width: 50%;"
-     src="images/rt_img.jpg" />
+     src="images/rt_img.png" />
 
 #### Profitability: Box Office Mojo Insights
 
@@ -81,7 +81,7 @@ To assess film popularity and film profitability we will examine five seperate d
             margin-left: auto;
             margin-right: auto;
             width: 50%;"
-     src="images/bom_img.jpg" />
+     src="images/bom_img.png" />
 
 #### Profitability: The Numbers Insights
 
@@ -89,7 +89,7 @@ To assess film popularity and film profitability we will examine five seperate d
             margin-left: auto;
             margin-right: auto;
             width: 50%;"
-     src="images/tn_img.jpg" />
+     src="images/tn_img.png" />
 
 
 #### Genre Analysis
