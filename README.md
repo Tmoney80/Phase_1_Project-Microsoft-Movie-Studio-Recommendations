@@ -1,4 +1,3 @@
-# Phase_1_Project-Microsoft-Movie-Studio-Recommendations
 <h1 style="text-align: center;"> Microsoft Movie Studios Recommendations </h1>
 
 <img style="display: block;
@@ -54,13 +53,43 @@ To assess film popularity and film profitability we will examine five seperate d
 
 #### Popularity: The Movie Database Insights
 
+<img style="display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;"
+     src="images/tmdb_img.jpg" />
+
 #### Popularity: IMDB Insights
+
+<img style="display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;"
+     src="images/imdb_img.jpg" />
 
 #### Popularity: Rotten Tomatoes Insights
 
+<img style="display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;"
+     src="images/rt_img.jpg" />
+
 #### Profitability: Box Office Mojo Insights
 
+<img style="display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;"
+     src="images/bom_img.jpg" />
+
 #### Profitability: The Numbers Insights
+
+<img style="display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;"
+     src="images/tn_img.jpg" />
 
 
 #### Genre Analysis
